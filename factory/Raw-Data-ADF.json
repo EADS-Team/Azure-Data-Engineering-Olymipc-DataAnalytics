@@ -1,0 +1,9 @@
+{
+	"name": "Raw-Data-ADF",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6a3ab361-bac1-464d-8664-c20b4ad0f593",
+		"tenantId": "1fc8f7e0-69fe-4521-8a91-e0c4f6b9afb5"
+	}
+}

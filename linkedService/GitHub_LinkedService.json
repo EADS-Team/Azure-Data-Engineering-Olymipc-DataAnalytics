@@ -1,0 +1,13 @@
+{
+	"name": "GitHub_LinkedService",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://github.com/EADS-Team/Azure-Data-Engineering-Olymipc-DataAnalytics/tree/main/Data/",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}

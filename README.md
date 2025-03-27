@@ -41,7 +41,8 @@ The project workflow consists of the following major steps:
 ## 3. Pipeline Integration and Execution
 
 * Connected the Databricks Notebook to the ADF pipeline.
-* Triggered the pipeline in ADF, ensuring that the transformed files were successfully moved to the transformed dataset container in Azure Storage.
+* Triggered the pipeline in ADF, ensuring that the transformed files were successfully moved to the transformed dataset 
+  container in Azure Storage.
 
 ## Technology Stack
 
@@ -60,7 +61,7 @@ The project workflow consists of the following major steps:
 ## Step 1: Set Up Azure Environment
 
 * Create a **Resource Group** to manage all resources.
-* Deploy an **Azure Storage Account** and create two containers: **rawdata**and **transformeddataset**.
+* Deploy an **Azure Storage Account** and create two containers: **rawdata** and **transformeddataset**.
 * Create an **Azure Data Factory** instance.
 * Set up an **Azure Databricks** workspace.
 

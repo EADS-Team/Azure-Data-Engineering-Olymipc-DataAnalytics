@@ -82,6 +82,8 @@ The project workflow consists of the following major steps:
 * Link the **Databricks Notebook** to the **ADF pipeline**.
 * Trigger the pipeline and validate that transformed data is stored correctly.
 
+![GitHub Flow](Screenshots/Github%20-%20Flow.png)
+
 ## Conclusion
 
 This project demonstrates a streamlined **Azure Data Engineering** pipeline, integrating **Azure Data Factory**, **Azure Databricks**, and **Azure Storage or Azure Datalake gen2**. By automating data ingestion and transformation, the solution ensures efficient data processing, allowing businesses to derive meaningful insights seamlessly.

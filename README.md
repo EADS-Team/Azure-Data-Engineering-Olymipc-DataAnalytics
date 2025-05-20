@@ -12,6 +12,8 @@ The project is designed to process and analyze data efficiently while ensuring s
 * **Data Transformation** – Cleaning and structuring the data using Azure Databricks.
 * **Data Storage** – Storing raw and processed data in separate Azure Storage containers.
 * **Automation** – Ensuring an end-to-end pipeline that updates the transformed dataset automatically.
+  
+![GitHub Workflow](Screenshots/Github%20Workflow%20Image.png)
 
 ## Solution Overview
 
